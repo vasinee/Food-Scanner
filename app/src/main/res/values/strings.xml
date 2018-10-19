@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Scanner</string>
+    <string name="action_save">บันทึก</string>
+    <string name="action_cancel">ยกเลิก</string>
+    <string name="action_crop">Crop</string>
+    <string name="title_activity_page4">page4</string>
+    <string name="title_activity_result_img">resultImg</string>
+    <string name="title_activity_crop_imag">CropImag</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

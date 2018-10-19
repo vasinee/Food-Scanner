@@ -1,0 +1,112 @@
+null,null,null,null,กุ้งและปู (crustacean),1,0,1,0
+海老,エビ,蝦,null,กุ้ง (shrimp),1,0,1,0
+ロブスター,オマール,アカザエビ,null,กุ้งก้ามกราม (lobster),1,0,1,0
+ブラックタイガー,null,null,null,กุ้งกุลาดำ,1,0,1,0
+かに,蟹,null,null,ปู (crab),1,0,1,0
+null,null,null,null,ข้าวและแป้ง (wheat),0,0,1,0
+米,穀粉,米穀,null,ข้าวและแป้งข้าว (rice & flour),0,0,1,0
+小麦,麦粉,メリケン粉,小麦粉,ข้าวสาลีและแป้งข้าวสาลี (wheat & wheat flour),0,0,1,0
+麦,null,null,null,ข้าวบาร์เลย์ (barley),0,0,1,0
+稗,粟,黍,null,ข้าวฟ่าง (millet),0,0,1,0
+オート麦,オーツ,null,null,ข้าวโอ้ต (oat),0,0,1,0
+麩,麩質,グルテン,null,กลูเต็น/โปรตีนในแป้งสาลี (gluten),0,0,1,0
+グリアジン,null,null,null,สารไกลอาติน (glyodene),0,0,1,0
+糠,小糠,米糠,null,รำข้าว (rice bran),0,0,1,0
+卵,鶏卵,たまご,null,ไข่ (egg),1,0,1,0
+蛋白,卵白,白味,null,ไข่ขาวและโปรตีนไข่ขาว (white egg),1,0,1,0
+卵黄,黄身,null,null,ไข่แดง (egg yolk),1,0,1,0
+乳化剤,null,null,null,mushbooh อิมัลซิไฟเออร์ (emulsifier),1,1,1,0
+ごま,ゴマ,null,null,งา (sesame),0,0,1,0
+null,null,null,null,ถั่ว (nuts & beans),0,0,1,0
+餡,ダル,小豆,null,ถั่วแดง (red beans),0,0,1,0
+ピーカン,ペカン,null,null,พีแคนนัท (peacan),0,0,1,0
+大豆油,豆油,大豆,null,ถั่วเหลืองและน้ำมันถั่วเหลือง (beans oil & soya beans),0,0,1,0
+そら豆,空豆,蚕豆,null,ถั่วปากอ้า (broad beans/horse beans),0,0,1,0
+ピーナッツ,落花生,ピーナツ,null,ถั่วลิสง (peanuts),0,0,1,0
+アモンド,アーモンド,null,null,อัลมอนต์ (almonds),0,0,1,0
+はしばみの実,榛,ヘーゼルナッツ,null,เฮเซลนัท (hazelnut),0,0,1,0
+くるみ ,胡桃油,ウォールナット,胡桃,วอลนัทและน้ำมันวอลนัท (walnuts),0,0,1,0
+カシューナッツ,null,null,null,เม็ดมะม่วงหิมพานต์ (cashew nuts),0,0,1,0
+ピーナッツバター,null,null,null,เนยถั่ว (peanuts butter),0,0,1,0
+溜まり醤油,薄口醤油,醤油,null,ซอสถั่วเหลือง (soy sauce),0,0,1,0
+マカダミア,null,null,null,แมคคาเดเมีย (macadamia),0,0,1,0
+大豆のミルク,豆乳,null,null,นมถั่วเหลือง (soy milk),0,0,1,0
+null,null,null,null,นม (dairy),1,0,1,0
+バターミルク,牛乳,ミルク,null,นม (cow milk),1,0,1,0
+全粉乳,null,null,null,นมผง,1,0,1,0
+ホイップクリーム,クリーム,乳脂,null,ครีม (whipped cream),1,0,1,0
+乾酪素,カゼイン,null,null,เคซีน/โปรตีนจากนม (caesin),1,0,1,0
+山羊ミルク ,null,null,null,นมแพะ (goat milk),1,0,1,0
+羊乳,null,null,null,นมแกะ (sheep milk),1,0,1,0
+スキムミルク,乳清,null,null,หางนม (skim milk),1,0,1,0
+乳糖不耐症,乳糖,ラクトーゼ,null,น้ำตาลนม/แลคโตส (lactose),1,0,1,0
+フルーツドリンク,ヨーグルト,null,null,นมเปรี้ยว/โยเกิร์ต (yogurt),1,0,1,0
+チーズ,null,null,null,ชีสและเนย (cheese),1,0,1,0
+バター,null,null,null,เนยและไขมันเนย (butter),1,0,1,0
+クリームチーズ,null,null,null,ครีมชีส (cream cheese),1,0,1,0
+モッツァレラ,モッツァレラチーズ,モザレラ,null,มอซซาเรลล่าชีส (mozzarella cheese),1,0,1,0
+チェダーチーズ,null,null,null,เชดด้าร์ชีส (cheddar cheese),1,0,1,0
+リコッタ,null,null,null,เนยอิตาลี (ricotta),1,0,1,0
+マーガリン,null,null,null,เนยเทียม (margarine),1,0,1,0
+フィッシュ,魚,null,null,ปลา (fish),1,0,1,0
+魚油,null,null,null,น้ำมันปลา (fish oil),1,0,1,0
+アンチョビー,アンチョビ,片口鰯,null,ปลาแอนโชวี่ (anchovy),1,0,1,0
+肝油,氷下魚,銀鱈,null,ปลาคอด (cod-liver oil),1,0,1,0
+昆布巻,数の子,昆布巻き,null,ปลาแฮร์ริ่ง (herring fish),1,0,1,0
+サーモン,腹子,鮭,null,ปลาแซลมอน (salmon),1,0,1,0
+大口バス,鱸,小口バス,null,ปลากะพง (bass fish),1,0,1,0
+鮪,ツナ,null,null,ปลาทูน่า (tuna),1,0,1,0
+いくら,イクラ,イクラー,null,ไข่ปลาแซลมอน (salmon eggs),1,0,1,0
+梶木,旗魚,太刀魚,null,ปลาดาบ (marlin fish),1,0,1,0
+トラウトサーモン,ブラウントラウト,オショロコマ,null,ปลาเทราท์ (trout),1,0,1,0
+飯蛸,たこ,いいだこ,蛸,ปลาหมึกยักษ์ (octopus),1,0,1,0
+null,null,null,null,หอยและปลาหมึก (molluscs),1,0,1,0
+いか,烏賊,イカ,null,ปลาหมึก (squid),1,0,1,0
+スミイカ,ジンドウイカ,null,null,ปลาหมึกกล้วย,1,0,1,0
+ハマグリ,貝,null,null,หอย (shellfish),1,0,1,0
+アワビ,鰒,鮑,null,หอยเป๋าฮื๊อ (abalone),1,0,1,0
+ムール貝,貽貝,蚍,null,หอยแมลงภู่ (mussels),1,0,1,0
+オイスター,牡蠣,牡蛎,null,หอยนางรม (oyster),1,0,1,0
+ビーフ,牛,牛肉,null,เนื้อวัว (beef),1,1,0,1
+ビーフエキス,牛肉エキス,null,null,ส่วนประกอบสกัดจากเนื้อวัว (beef extract),1,1,0,1
+牛脂,null,null,null,น้ำมันวัว (beef fat),1,1,0,1
+コンソメ,null,null,null,ซุปเนื้อ (consomme),1,1,0,1
+コンソメパウダー,null,null,null,ผงซุปเนื้อ (consomme powder),1,1,0,1
+肉エキス,null,null,null,ส่วนประกอบสกัดจากเนื้อสัตว์ (meat extract),1,1,0,1
+牛脂豚脂混合油,null,null,null,มันหมูมันวัว (beef and pork fat),1,1,0,1
+ポーク,豚,豚肉,null,เนื้อหมู (pork),1,1,0,1
+ラード,豚脂,null,null,มันหมู (lard/pork fat),1,1,0,1
+ポークエキス,豚肉エキス,null,null,ส่วนประกอบสกัดจากเนื้อหมู (pork extract),1,1,0,1
+ハム,null,null,null,แฮม (ham),1,1,0,1
+油脂,混合油脂,動物油脂,獣脂,ไขมัน (fat),1,0,0,0
+動物性ショートニング,null,null,null,ชอทเทนนิ่งที่ทำจากสัตว์ (animal shortening),1,1,0,0
+加エ油脂,null,null,null,mushbooh ไขมันที่ผ่านกระบวนการ (additional fat),1,1,0,0
+動物性脂肪,動物油脂,動物性油脂,null,ไขมันสัตว์ (animal fat),1,1,0,0
+不可欠アミノ酸,必須アミノ酸,アミノ酸,null,mushbooh กรดอะมิโน (amino acid),1,1,0,0
+パン種,イースト,酵母,null,mushbooh ยีสต์ (yeast),1,0,0,0
+腸詰め,ウインナー,ソーセージ,null,ไส้กรอก (sausage),1,1,0,0
+ラム,小羊,子羊,null,เนื้อแกะ (lamb),1,1,0,0
+鶏肉,チキン,鶏,鳥肉,เนื้อไก่ (chicken meat),1,1,0,0
+チキンエキス,鶏肉エキス,null,null,ส่วนประกอบสกัดจากเนื้อไก่ (chicken extract),1,1,0,0
+鴨肉,ダック,null,null,เนื้อเป็ด (duck meat),1,1,0,0
+null,null,酒精飲料,アルコール,แอลกอฮอล์ (alcohol),1,1,0,0
+水割り,ウィスキー,null,null,วิสกี้/เหล้าขาว (whiskey),1,1,0,0
+醞,洋酒,リカー,null,เหล้าและสุรา (western liquor),1,1,0,0
+ブランディ,ブランデー,null,null,บรั่นดี (brandy),1,1,0,0
+味醂,みりん,null,null,มิริน (sweet sake),1,1,0,0
+蒸留酒,焼酎,リキュール,null,กลั่นจากแอลกอฮอล์ (liquor),1,1,0,0
+酒精,ワイン,null,null,ไวน์ (wine),1,1,0,0
+生酒,日本酒,お酒,酒,สาเกญี่ปุ่น (Japanese rice wine),1,1,0,0
+エチルアルコール,エタノール,null,null,เอทิลแอลกอฮอล์/เอทานอล (ethanol),1,1,0,0
+合成清酒,null,null,null,เหล้าญี่ปุ่น (โกเซเซชู) mixed refined sake,1,1,0,0
+球根,オニオン,玉葱,null,หัวหอมและหอมต่างๆ (onion),1,0,0,0
+白葱,長葱,葱,ネギ,ต้นหอม (welsh onion),1,0,0,0
+エシャレット,シャロット,赤玉葱,null,หอมแดง (shallot),1,0,0,0
+黄韮,ニラ,null,null,กุยช่าย (chinese leek),1,0,0,0
+葉煙草,タバコ,null,null,ใบยาสูบ (cigarette),1,0,0,0
+刻み煙草,刻みたばこ,刻みタバコ,null,บุหรี่ยาเส้น (shredded cigarette),1,0,0,0
+ラムレーズン,ラム酒,null,null,รัมและรัมเรซิน (rum & rum resin),1,1,0,0
+ジェラチン,ゼリー,ゼラチン,null,mushbooh เยลลี่และเจลาติน (jelly & gelatin),1,1,0,0
+ショートニング(大豆由来),ショートニング(大豆を含む),null,null,ชอทเทนนิ่ง/เนยขาว (shortening),0,0,0,0
+乳化剤(大豆由来),乳化剤(大豆を含む),null,null,อิมัลซิไฟเออร์ (emulsifier),0,0,0,0
+ショートニング,null,null,null,mushbooh ชอทเทนนิ่ง/เนยขาว (shortening),1,1,0,0

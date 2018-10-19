@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.itkmitl.fon.pjocr_01.CropImage">
+
+    <item android:id="@+id/action_rotate"
+        android:icon="@drawable/crop_image_menu_rotate_right"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"
+        android:title="" />
+    <item android:id="@+id/action_crop"
+        android:title="@string/action_crop"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom" />
+</menu>

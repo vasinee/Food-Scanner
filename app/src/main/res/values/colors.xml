@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07111b</color>
+    <color name="colorPrimaryDark">#07111b</color>
+    <color name="colorAccent">#c33301</color>
+    <color name="accent_material_light">#c33301</color>
+    <color name="primary_dark_material_light">#07111b</color>
+    <color name="primary_material_dark">#07111b</color>
+    <color name="primary_dark_material_dark">#354a5b</color>
+    <color name="primary_material_light">#354a5b</color>
+
+</resources>
